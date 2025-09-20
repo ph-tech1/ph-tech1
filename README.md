@@ -63,6 +63,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ph-tech1/ph-tech1/output/snake.svg" alt="Snake animation" />
+
 
 ###
