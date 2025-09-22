@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Java, Python & Data Analysis<br>🎯 Goals: Become a pro in Java and Python, and master data analysis<br>🎲 Fun fact: I love coding and gaming</p>
+<p align="left">
+📚 I'm currently learning <b>Java</b> and <b>Python</b><br>
+🎯 Goal: Become an expert in programming and data analysis<br>
+🎲 Fun fact: I love coding and gaming
+</p>
 
 ###
 
