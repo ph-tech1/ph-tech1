@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2005<br>📚 I'm currently learning Java, Python & Data Analysis<br>🎯 Goals: Become a pro in Java and Python, and master data analysis<br>🎲 Fun fact: I love coding and gaming</p>
+<p align="left">📚 I'm currently learning Java, Python & Data Analysis<br>🎯 Goals: Become a pro in Java and Python, and master data analysis<br>🎲 Fun fact: I love coding and gaming</p>
 
 ###
 
